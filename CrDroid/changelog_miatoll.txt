@@ -1,0 +1,10 @@
+Highlights & Device Specific Changes:
+Build type: Monthly 
+Device: Redmi Note 9S Series (miatoll)
+Device maintainer: iTS_UDAY_404
+Required firmware: Latest
+
+===== <date> =====
+- change 1
+- change 2
+- change 3
